@@ -1,11 +1,14 @@
 {
- "title" : "Tutorials and videos"
+ "title" : "Tutorials and videos",
+ "layout" : "single"
 }
 
 ## Training workshops and Exercises
 
-We typically carry out a few training workshops each year - keep your eye on our [calendar](https://intermineorg.wordpress.com/events/) or [twitter feed](https://twitter.com/intermineorg) to find out when registration is open. The [materials are available online](http://intermine.org/training-workshops/) and designed to be worked through in a self-led or tutor-led manner. These include:  
+We typically carry out a few training workshops each year - keep your eye on our [calendar](https://intermineorg.wordpress.com/events/) or [twitter feed](https://twitter.com/intermineorg) to find out when registration is open. The [materials are available online](http://intermine.org/training-workshops/) and designed to be worked through in a self-led or tutor-led manner. 
 
+
+*These include* :
 
 ## Materials
 
