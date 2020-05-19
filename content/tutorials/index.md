@@ -1,5 +1,6 @@
-{"title" : "Tutorials and videos",
-"layout" : "single"}
+{
+ "title" : "Tutorials and videos"
+}
 
 ## Training workshops and Exercises
 
